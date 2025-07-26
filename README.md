@@ -37,7 +37,7 @@ This project solves that by transforming raw HR data into a dynamic and filterab
 
 ## HR Summary Dashboard
 
-![HR Summary](HR%20%20Summary.jpg)
+![HR Summary](HR%20%20Summary%20.jpg)
 
 ## HR Employee Details View
 
